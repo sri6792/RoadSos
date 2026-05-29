@@ -50,18 +50,18 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAmfnttBghG2cUq2nOgPg-sCOkkGlP15dQ',
-    appId: '1:728318811353:web:c21f62b03f13c48168f2c8',
-    messagingSenderId: '728318811353',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'roadsos-57adb',
     authDomain: 'roadsos-57adb.firebaseapp.com',
     storageBucket: 'roadsos-57adb.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDpgImMkTGSuUAP5R8hzD0DsKl_SOeXBdw',
-    appId: '1:728318811353:android:041600ca18b9278868f2c8',
-    messagingSenderId: '728318811353',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'roadsos-57adb',
     storageBucket: 'roadsos-57adb.firebasestorage.app',
   );
