@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "728318811353",
+    "project_id": "roadsos-57adb",
+    "storage_bucket": "roadsos-57adb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728318811353:android:041600ca18b9278868f2c8",
+        "android_client_info": {
+          "package_name": "com.example.roadsos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728318811353-2nhsle6uucatf84j1n0k2td0k62et2d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roadsos",
+            "certificate_hash": "bd9e31484cb3de0e30005498dfb23bda0d486cb7"
+          }
+        },
+        {
+          "client_id": "728318811353-kvu3pu879p3ongmce27mnckkkc6frk9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpgImMkTGSuUAP5R8hzD0DsKl_SOeXBdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728318811353-kvu3pu879p3ongmce27mnckkkc6frk9v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728318811353-8qprk2fn0ien0jskv07e9pkcsj6jue7t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.roadsos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
